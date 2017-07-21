@@ -5,5 +5,6 @@ install
   
  run
   - pip3 install Pillow (for import PIL)
-  - pip install opencv-contrib-python (from LBPHCascade) 
+  - pip install opencv-contrib-python (for LBPHCascade) 
+  - pip install matplotlib (for subplot)
  
