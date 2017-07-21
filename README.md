@@ -4,7 +4,8 @@ install
   - pip
   
  run
-  - pip3 install Pillow (for import PIL)
+  - pip install opencv-python (for cv2)
+  - pip install Pillow (for import PIL)
   - pip install opencv-contrib-python (for LBPHCascade) 
   - pip install matplotlib (for subplot)
  
